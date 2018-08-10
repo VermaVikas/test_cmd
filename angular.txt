@@ -1,1 +1,9 @@
+Angular 6
 https://www.youtube.com/watch?v=z4JUm0Bq9AM
+https://grokonez.com/category/frontend/angular/angular-6
+https://grokonez.com/frontend/angular/angular-6/angular-6-httpclient-get-post-put-delete-requests-springboot-restapis-bootstrap-4
+
+
+
+VU JS
+https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa 
