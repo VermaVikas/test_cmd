@@ -1,1 +1,8 @@
 test
+file 4 new line 1
+file 4 new line 2
+file 4 new line 3
+file 4 new line 4
+file 4 new line 5
+file 4 new line 6
+file 4 new line 7
